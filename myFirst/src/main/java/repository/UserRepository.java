@@ -6,35 +6,38 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class UserRepository {
+public class UserRepository extends Repo {
 
 
-    private static final String URL = "jdbc:mysql://localhost:3306/mpp_db";
-    private static final String USERNAME = "Admin";
-    private static final String PASSWORD = "1234";
-
-    public List<User> getAllUsers() {
+    public List<User> getAllUsers() throws SQLException {
         List<User> users = new ArrayList<User>();
-        try {
-            Connection connection = DriverManager.getConnection(URL, USERNAME, PASSWORD);
 
-            Statement stmt = connection.createStatement();
-            ResultSet rs = stmt.executeQuery("SELECT * FROM user_table");
+        ResultSet rs = selectQuery("SELECT * FROM user_table");
 
-            while (rs.next()) {
-                User user = new User();
-                user.setId(rs.getInt("id_user"));
-                user.setUsername(rs.getString("username"));
-                users.add(user);
-            }
-            connection.close();
-
-
-        } catch (SQLException e) {
-            e.printStackTrace();
+        while (rs.next()) {
+            User user = new User();
+            user.setId(rs.getInt("id_user"));
+            user.setUsername(rs.getString("username"));
+            users.add(user);
         }
+        connection.close();
+
         return users;
     }
 
+    public void deleteUserById(int id) throws SQLException {
+        executeUpdate("DELETE FROM user_table WHERE id_user=" + id);
+        connection.close();
+    }
+
+    public void updateUserById(int id) throws SQLException {
+        executeUpdate("UPDATE user_table SET username = 'updatedUsername', address = 'newADDRESS' WHERE id_user=" + id);
+        connection.close();
+    }
+
+    public void insertUser() throws SQLException {
+        executeUpdate("INSERT INTO user_table (id_user, username, passwd) VALUES (101, 'insertedUser', 'insertedpass')");
+        connection.close();
+    }
 
 }
