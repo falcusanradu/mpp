@@ -8,7 +8,8 @@ public class Game {
     private String team1;
     private String team2;
     private String title;
-    private List<Ticket> tickets;
+    //    private List<Ticket> tickets;
+    private Integer tickets;
 
     public Integer getId() {
         return id;
@@ -42,11 +43,11 @@ public class Game {
         this.title = title;
     }
 
-    public List<Ticket> getTickets() {
+    public Integer getTickets() {
         return tickets;
     }
 
-    public void setTickets(List<Ticket> tickets) {
+    public void setTickets(Integer tickets) {
         this.tickets = tickets;
     }
 }

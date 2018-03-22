@@ -63,7 +63,7 @@ set CMD_LINE_ARGS=%*
 :execute
 @rem Setup the command line
 
-set CLASSPATH=%APP_HOME%\lib\myFirst-1.0-SNAPSHOT.jar;%APP_HOME%\lib\mysql-connector-java-5.1.6.jar
+set CLASSPATH=%APP_HOME%\lib\spring-jcl-5.0.4.RELEASE.jar;%APP_HOME%\lib\spring-aop-5.0.4.RELEASE.jar;%APP_HOME%\lib\spring-beans-5.0.4.RELEASE.jar;%APP_HOME%\lib\spring-context-5.0.4.RELEASE.jar;%APP_HOME%\lib\spring-core-5.0.4.RELEASE.jar;%APP_HOME%\lib\myFirst-1.0-SNAPSHOT.jar;%APP_HOME%\lib\mysql-connector-java-5.1.6.jar;%APP_HOME%\lib\spring-expression-5.0.4.RELEASE.jar
 
 @rem Execute myFirst
 "%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %MY_FIRST_OPTS%  -classpath "%CLASSPATH%" Main %CMD_LINE_ARGS%
