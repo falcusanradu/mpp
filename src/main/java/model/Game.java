@@ -10,6 +10,7 @@ public class Game {
     private String title;
     //    private List<Ticket> tickets;
     private Integer tickets;
+    private Integer priceOfTicket;
 
     public Integer getId() {
         return id;
@@ -49,6 +50,14 @@ public class Game {
 
     public void setTickets(Integer tickets) {
         this.tickets = tickets;
+    }
+
+    public Integer getPriceOfTicket() {
+        return priceOfTicket;
+    }
+
+    public void setPriceOfTicket(Integer priceOfTicket) {
+        this.priceOfTicket = priceOfTicket;
     }
 }
 

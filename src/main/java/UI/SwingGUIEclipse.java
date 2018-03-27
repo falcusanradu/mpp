@@ -16,7 +16,7 @@ public class SwingGUIEclipse {
 
 	public JFrame frame;
 	private JTextField textFieldUsername;
-	private JTextField textFieldPassword;
+	private JPasswordField textFieldPassword;
 
 
 	/**
@@ -49,19 +49,14 @@ public class SwingGUIEclipse {
 	 */
 	private void initialize() {
 		frame = new JFrame();
-		frame.setBounds(100, 100, 571, 409);
+		frame.setBounds(100, 100, 471, 337);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 
 		textFieldUsername = new JTextField();
-		textFieldUsername.setBounds(62, 105, 116, 22);
+		textFieldUsername.setBounds(62, 61, 208, 22);
 		frame.getContentPane().add(textFieldUsername);
 		textFieldUsername.setColumns(10);
-
-		textFieldPassword = new JTextField();
-		textFieldPassword.setColumns(10);
-		textFieldPassword.setBounds(62, 149, 116, 22);
-		frame.getContentPane().add(textFieldPassword);
 
 		JButton btnLogin = new JButton("login");
 		btnLogin.addActionListener(new ActionListener() {
@@ -74,7 +69,7 @@ public class SwingGUIEclipse {
 					} else {
 						frame.dispose();
 						AfterLoginEclipse afterLogin = new AfterLoginEclipse();
-						afterLogin.setVisible(true);
+						afterLogin.frame.setVisible(true);
 						// this.dispose();
 					}
 				} catch (SQLException e) {
@@ -83,8 +78,11 @@ public class SwingGUIEclipse {
 
 			}
 		});
-		btnLogin.setBounds(62, 240, 97, 25);
+		btnLogin.setBounds(62, 177, 97, 25);
 		frame.getContentPane().add(btnLogin);
+		
+		textFieldPassword = new JPasswordField();
+		textFieldPassword.setBounds(62, 112, 208, 25);
+		frame.getContentPane().add(textFieldPassword);
 	}
-
 }
