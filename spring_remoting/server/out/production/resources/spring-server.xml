@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+
+    <bean id="userRepo" class="UserRepository"/>
+
+    <bean id="Service" class="ServerImpl">
+        <constructor-arg ref="userRepo"/>
+    </bean>
+
+    <bean class="org.springframework.remoting.rmi.RmiServiceExporter">
+
+        <property name="serviceName" value="myApp"/>
+        <property name="service" ref="Service"/>
+        <property name="serviceInterface" value="IServices"/>
+        <property name="servicePort" value="1097"/>
+    </bean>
+
+
+</beans>

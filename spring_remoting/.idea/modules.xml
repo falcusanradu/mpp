@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clientGUI.iml" filepath="$PROJECT_DIR$/.idea/modules/clientGUI.iml" group="clientGUI" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clientGUI/clientGUI_main.iml" filepath="$PROJECT_DIR$/.idea/modules/clientGUI/clientGUI_main.iml" group="clientGUI" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clientGUI/clientGUI_test.iml" filepath="$PROJECT_DIR$/.idea/modules/clientGUI/clientGUI_test.iml" group="clientGUI" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/model.iml" filepath="$PROJECT_DIR$/.idea/modules/model.iml" group="model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/model/model_main.iml" filepath="$PROJECT_DIR$/.idea/modules/model/model_main.iml" group="model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/model/model_test.iml" filepath="$PROJECT_DIR$/.idea/modules/model/model_test.iml" group="model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/persistence.iml" filepath="$PROJECT_DIR$/.idea/modules/persistence.iml" group="persistence" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/persistence/persistence_main.iml" filepath="$PROJECT_DIR$/.idea/modules/persistence/persistence_main.iml" group="persistence" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/persistence/persistence_test.iml" filepath="$PROJECT_DIR$/.idea/modules/persistence/persistence_test.iml" group="persistence" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server.iml" filepath="$PROJECT_DIR$/.idea/modules/server.iml" group="server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server/server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/server/server_main.iml" group="server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server/server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/server/server_test.iml" group="server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services.iml" filepath="$PROJECT_DIR$/.idea/modules/services.iml" group="services" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/services_main.iml" filepath="$PROJECT_DIR$/.idea/modules/services/services_main.iml" group="services" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/services_test.iml" filepath="$PROJECT_DIR$/.idea/modules/services/services_test.iml" group="services" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springRemoting.iml" filepath="$PROJECT_DIR$/.idea/modules/springRemoting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springRemoting_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springRemoting_main.iml" group="springRemoting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springRemoting_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springRemoting_test.iml" group="springRemoting" />
+    </modules>
+  </component>
+</project>

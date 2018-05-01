@@ -1,0 +1,42 @@
+E:\Visual Studio\Workspace\Contest\Contest\obj\Debug\Contest.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Workspace\Contest\Contest\obj\Debug\Contest.Properties.Resources.resources
+E:\Visual Studio\Workspace\Contest\Contest\obj\Debug\Contest.csproj.GenerateResource.cache
+E:\Visual Studio\Workspace\Contest\Contest\obj\Debug\Contest.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Workspace\Contest\Contest\bin\Debug\Contest.exe.config
+E:\Visual Studio\Workspace\Contest\Contest\bin\Debug\Contest.exe
+E:\Visual Studio\Workspace\Contest\Contest\bin\Debug\Contest.pdb
+E:\Visual Studio\Workspace\Contest\Contest\bin\Debug\MySql.Data.dll
+E:\Visual Studio\Workspace\Contest\Contest\bin\Debug\MySql.Data.xml
+E:\Visual Studio\Workspace\Contest\Contest\obj\Debug\Contest.csproj.CopyComplete
+E:\Visual Studio\Workspace\Contest\Contest\obj\Debug\Contest.exe
+E:\Visual Studio\Workspace\Contest\Contest\obj\Debug\Contest.pdb
+E:\Visual Studio\Workspace\Contest\Contest\obj\Debug\Contest.Form1.resources
+E:\Visual Studio\Workspace\Contest\Contest\obj\Debug\Contest.Login.resources
+E:\an3sem2\mpp\labs\Contest\Contest\bin\Debug\Contest.exe.config
+E:\an3sem2\mpp\labs\Contest\Contest\bin\Debug\Contest.exe
+E:\an3sem2\mpp\labs\Contest\Contest\bin\Debug\Contest.pdb
+E:\an3sem2\mpp\labs\Contest\Contest\bin\Debug\MySql.Data.dll
+E:\an3sem2\mpp\labs\Contest\Contest\bin\Debug\MySql.Data.xml
+E:\an3sem2\mpp\labs\Contest\Contest\obj\Debug\Contest.csprojResolveAssemblyReference.cache
+E:\an3sem2\mpp\labs\Contest\Contest\obj\Debug\Contest.Form1.resources
+E:\an3sem2\mpp\labs\Contest\Contest\obj\Debug\Contest.Login.resources
+E:\an3sem2\mpp\labs\Contest\Contest\obj\Debug\Contest.Properties.Resources.resources
+E:\an3sem2\mpp\labs\Contest\Contest\obj\Debug\Contest.csproj.GenerateResource.cache
+E:\an3sem2\mpp\labs\Contest\Contest\obj\Debug\Contest.csproj.CoreCompileInputs.cache
+E:\an3sem2\mpp\labs\Contest\Contest\obj\Debug\Contest.csproj.CopyComplete
+E:\an3sem2\mpp\labs\Contest\Contest\obj\Debug\Contest.exe
+E:\an3sem2\mpp\labs\Contest\Contest\obj\Debug\Contest.pdb
+E:\an3sem2\mpp\labs\mpp\C#\Contest\bin\Debug\Contest.exe.config
+E:\an3sem2\mpp\labs\mpp\C#\Contest\bin\Debug\Contest.exe
+E:\an3sem2\mpp\labs\mpp\C#\Contest\bin\Debug\Contest.pdb
+E:\an3sem2\mpp\labs\mpp\C#\Contest\bin\Debug\MySql.Data.dll
+E:\an3sem2\mpp\labs\mpp\C#\Contest\bin\Debug\MySql.Data.xml
+E:\an3sem2\mpp\labs\mpp\C#\Contest\obj\Debug\Contest.csprojResolveAssemblyReference.cache
+E:\an3sem2\mpp\labs\mpp\C#\Contest\obj\Debug\Contest.Form1.resources
+E:\an3sem2\mpp\labs\mpp\C#\Contest\obj\Debug\Contest.Login.resources
+E:\an3sem2\mpp\labs\mpp\C#\Contest\obj\Debug\Contest.Properties.Resources.resources
+E:\an3sem2\mpp\labs\mpp\C#\Contest\obj\Debug\Contest.csproj.GenerateResource.cache
+E:\an3sem2\mpp\labs\mpp\C#\Contest\obj\Debug\Contest.csproj.CoreCompileInputs.cache
+E:\an3sem2\mpp\labs\mpp\C#\Contest\obj\Debug\Contest.csproj.CopyComplete
+E:\an3sem2\mpp\labs\mpp\C#\Contest\obj\Debug\Contest.exe
+E:\an3sem2\mpp\labs\mpp\C#\Contest\obj\Debug\Contest.pdb
