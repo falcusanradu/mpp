@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class ClientCtrl extends UnicastRemoteObject implements IObserver, Serializable {
+public class ClientCtrl extends UnicastRemoteObject implements IObserverNew, Serializable {
 
     // this is my server interface.
     private IServices server;
