@@ -1,10 +1,7 @@
 package entity;
 
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
 import java.io.Serializable;
 
 @Table(name = "game_table")
@@ -12,7 +9,7 @@ import java.io.Serializable;
 public class Game implements Serializable {
 
     @Id
-//    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id_game")
     private Integer id;
     @Column(name = "team1")
@@ -25,6 +22,17 @@ public class Game implements Serializable {
     private Integer tickets;
     @Column(name = "price_of_one_ticket")
     private Integer priceOfTicket;
+
+    public Game() {
+    }
+
+    public Game(String team1, String team2, String title, Integer tickets, Integer priceOfTicket) {
+        this.team1 = team1;
+        this.team2 = team2;
+        this.title = title;
+        this.tickets = tickets;
+        this.priceOfTicket = priceOfTicket;
+    }
 
     public Integer getId() {
         return id;
