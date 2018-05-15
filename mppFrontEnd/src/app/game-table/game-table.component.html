@@ -2,12 +2,62 @@
   game-table works!
 </p>
 
-<button class="btn-danger">btn</button>
-<table class="table table-bordered">
-  <tr *ngFor="let game of games">
-    <td>{{game.team1}}</td>
-    <td>{{game.team2}}</td>
-    <td>{{game.priceOfTicket}}</td>
-    <td>{{game.title}}</td>
+<button class="button btn-default" (click)="addNewRule()">create</button>
+
+<ng-container *ngIf="clicked">
+  <td>
+    <button class="button btn-groupn" (click)="addNewGame()">Save</button>
+  </td>
+  <td>
+    <button class="button btn-groupn" (click)="cancel()">Cancel</button>
+  </td>
+</ng-container>
+
+<table class="table table-responsive">
+  <thead class="page-header">
+  <th>team1</th>
+  <th>team2</th>
+  <th>title</th>
+  <th>tickets</th>
+  <th>priceOfTicket</th>
+  </thead>
+  <tbody class="modal-body">
+  <!--adding new game-->
+  <tr class="table-row" *ngIf="clicked">
+    <td><input [(ngModel)]="newGame.team1"></td>
+    <td><input [(ngModel)]="newGame.team2"></td>
+    <td><input [(ngModel)]="newGame.title"></td>
+    <td><input type="number" [(ngModel)]="newGame.tickets"></td>
+    <td><input type="number" [(ngModel)]="newGame.priceOfTicket"></td>
   </tr>
+  <!--display all games-->
+  <ng-container *ngFor="let game of games">
+    <tr *ngIf="!editMode">
+      <td>{{game.team1}}</td>
+      <td>{{game.team2}}</td>
+      <td>{{game.title}}</td>
+      <td>{{game.tickets}}</td>
+      <td>{{game.priceOfTicket}}</td>
+      <td>
+        <button (click)="edit()" class="button btn-group">Edit</button>
+        <button (click)="delete(game)" class="button btn-danger">Delete</button>
+      </td>
+    </tr>
+  </ng-container>
+  <ng-container *ngFor="let game of games">
+    <tr *ngIf="editMode && game.id === saveGameForEdit.id">
+      <td><input [(ngModel)]="game.team1"></td>
+      <td><input [(ngModel)]="game.team2"></td>
+      <td><input [(ngModel)]="game.title"></td>
+      <td><input type="number" [(ngModel)]="game.tickets"></td>
+      <td><input type="number" [(ngModel)]="game.priceOfTicket"></td>
+      <td>
+        <button (click)="update(game)" class="button btn-group">Update</button>
+        <button (click)="cancelEdit(game)" class="button btn-danger">Cancel</button>
+      </td>
+    </tr>
+  </ng-container>
+  </tbody>
 </table>
+
+

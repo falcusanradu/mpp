@@ -20,6 +20,7 @@ public class GameController {
     }
 
     @RequestMapping(value = "/create/{team1}/{team2}/{title}/{tickets}/{priceOfTicket}", method = RequestMethod.POST)
+    @ResponseBody
     public void createOrUpdateGame(@PathVariable("team1") String team1, @PathVariable("team2") String team2, @PathVariable("title") String title,
                                    @PathVariable("tickets") Integer tickets, @PathVariable("priceOfTicket") Integer priceOfTicket) {
         Game game = new Game(team1, team2, title, tickets, priceOfTicket);

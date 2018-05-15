@@ -7,6 +7,7 @@ import {GameTableComponent} from './game-table/game-table.component';
 import {BackendService} from './backend.service';
 import {HttpClient, HttpClientModule} from '@angular/common/http';
 import {HttpModule} from '@angular/http';
+import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 
 
 @NgModule({
@@ -18,6 +19,8 @@ import {HttpModule} from '@angular/http';
     BrowserModule,
     HttpClientModule,
     HttpModule,
+    FormsModule,
+    ReactiveFormsModule
   ],
   providers: [HttpClient, BackendService,],
   bootstrap: [AppComponent]
