@@ -13,7 +13,7 @@ export class GameTableComponent implements OnInit {
   @Input() newGame: Game = new Game();
   clicked: boolean;
   editMode: boolean;
-
+  id: number;
   saveGameForEdit: Game;
 
   constructor(private backendService: BackendService) {
@@ -32,6 +32,7 @@ export class GameTableComponent implements OnInit {
     this.loadAllGames();
     this.clicked = false;
     this.newGame = new Game();
+    location.reload();
   }
 
   edit(game) {
@@ -41,7 +42,8 @@ export class GameTableComponent implements OnInit {
   }
 
   update(game: any) {
-    this.backendService.createOrUpdate(game);
+    this.backendService.createOrUpdate(game).subscribe();
+    this.editMode = false;
   }
 
   cancel() {
@@ -51,11 +53,16 @@ export class GameTableComponent implements OnInit {
 
   delete(game) {
     this.backendService.delte(game.id);
+    location.reload();
   }
 
   cancelEdit(game: any) {
     game = this.saveGameForEdit;
     this.editMode = false;
+  }
+
+  searchById(){
+
   }
 
   private loadAllGames() {

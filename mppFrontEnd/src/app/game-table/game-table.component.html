@@ -1,17 +1,4 @@
-<p>
-  game-table works!
-</p>
-
-<button class="button btn-default" (click)="addNewRule()">create</button>
-
-<ng-container *ngIf="clicked">
-  <td>
-    <button class="button btn-groupn" (click)="addNewGame()">Save</button>
-  </td>
-  <td>
-    <button class="button btn-groupn" (click)="cancel()">Cancel</button>
-  </td>
-</ng-container>
+<button type="button" class="btn btn-default" (click)="addNewRule()">create</button>
 
 <table class="table table-responsive">
   <thead class="page-header">
@@ -24,40 +11,50 @@
   <tbody class="modal-body">
   <!--adding new game-->
   <tr class="table-row" *ngIf="clicked">
-    <td><input [(ngModel)]="newGame.team1"></td>
-    <td><input [(ngModel)]="newGame.team2"></td>
-    <td><input [(ngModel)]="newGame.title"></td>
-    <td><input type="number" [(ngModel)]="newGame.tickets"></td>
-    <td><input type="number" [(ngModel)]="newGame.priceOfTicket"></td>
+    <td><input [(ngModel)]="newGame.team1" class="input-sm"></td>
+    <td><input [(ngModel)]="newGame.team2" class="input-sm"></td>
+    <td><input [(ngModel)]="newGame.title" class="input-sm"></td>
+    <td><input type="number" [(ngModel)]="newGame.tickets" class="input-sm"
+               onkeydown="javascript: return event.keyCode == 69 ? false : true"></td>
+    <td><input type="number" [(ngModel)]="newGame.priceOfTicket" class="input-sm"
+               onkeydown="javascript: return event.keyCode == 69 ? false : true"></td>
+    <td>
+      <button class="btn btn-groupn" (click)="addNewGame()">Save</button>
+    </td>
+    <td>
+      <button class="btn btn-groupn" (click)="cancel()">Cancel</button>
+    </td>
   </tr>
   <!--display all games-->
   <ng-container *ngFor="let game of games">
-    <tr *ngIf="!editMode">
+    <tr *ngIf="(!editMode )||(editMode && (game.id !== saveGameForEdit.id))">
       <td>{{game.team1}}</td>
       <td>{{game.team2}}</td>
       <td>{{game.title}}</td>
       <td>{{game.tickets}}</td>
       <td>{{game.priceOfTicket}}</td>
       <td>
-        <button (click)="edit()" class="button btn-group">Edit</button>
-        <button (click)="delete(game)" class="button btn-danger">Delete</button>
+        <button (click)="edit(game)" class="btn btn-group">Edit</button>
+        <button (click)="delete(game)" class="btn btn-danger">Delete</button>
       </td>
     </tr>
-  </ng-container>
-  <ng-container *ngFor="let game of games">
     <tr *ngIf="editMode && game.id === saveGameForEdit.id">
       <td><input [(ngModel)]="game.team1"></td>
       <td><input [(ngModel)]="game.team2"></td>
       <td><input [(ngModel)]="game.title"></td>
-      <td><input type="number" [(ngModel)]="game.tickets"></td>
-      <td><input type="number" [(ngModel)]="game.priceOfTicket"></td>
+      <td><input type="number" [(ngModel)]="game.tickets"
+                 onkeydown="javascript: return event.keyCode == 69 ? false : true"></td>
+      <td><input type="number" [(ngModel)]="game.priceOfTicket"
+                 onkeydown="javascript: return event.keyCode == 69 ? false : true"></td>
       <td>
-        <button (click)="update(game)" class="button btn-group">Update</button>
-        <button (click)="cancelEdit(game)" class="button btn-danger">Cancel</button>
+        <button (click)="update(game)" class="btn btn-group">Update</button>
+        <button (click)="cancelEdit(game)" class="btn btn-danger">Cancel</button>
       </td>
     </tr>
   </ng-container>
   </tbody>
 </table>
+
+
 
 

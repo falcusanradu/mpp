@@ -4,7 +4,6 @@ import {HttpClient} from '@angular/common/http';
 import {Observable} from 'rxjs/Observable';
 import {Game} from './game-table/interfaces';
 import {Headers} from '@angular/http';
-import {BehaviorSubject} from 'rxjs/BehaviorSubject';
 
 export const BASE_URL = 'http://localhost:8080';
 
