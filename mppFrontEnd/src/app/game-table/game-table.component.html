@@ -1,14 +1,14 @@
 <!--settings-->
 <label class="label label-primary">Settings</label>
 <br>
-<input type="number" [(ngModel)]="newGame.priceOfTicket" class="input-sm"
-       onkeydown="javascript: return event.keyCode == 69 ? false : true" [(ngModel)]="perPage"
+<input type="number" class="input-sm" onkeydown="javascript: return event.keyCode == 69 ? false : true"
+       [(ngModel)]="perPage"
        [placeholder]="perPage">
 <br>
 <!-- add new game -->
 <button type="button" class="btn btn-default" (click)="addNew()">create</button>
 
-<table class="table table-responsive">
+<table class="table table-striped">
   <thead class="page-header">
   <th>team1</th>
   <th>team2</th>
