@@ -16,6 +16,9 @@ export class GameTableComponent implements OnInit {
   id: number;
   saveGameForEdit: Game;
 
+  perPage = 10;
+  settings = false;
+
   constructor(private backendService: BackendService) {
   }
 
@@ -23,7 +26,7 @@ export class GameTableComponent implements OnInit {
     this.loadAllGames();
   }
 
-  addNewRule() {
+  addNew() {
     this.clicked = true;
   }
 
@@ -61,7 +64,7 @@ export class GameTableComponent implements OnInit {
     this.editMode = false;
   }
 
-  searchById(){
+  searchById() {
 
   }
 

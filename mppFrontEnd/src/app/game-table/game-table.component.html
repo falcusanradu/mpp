@@ -1,4 +1,12 @@
-<button type="button" class="btn btn-default" (click)="addNewRule()">create</button>
+<!--settings-->
+<label class="label label-primary">Settings</label>
+<br>
+<input type="number" [(ngModel)]="newGame.priceOfTicket" class="input-sm"
+       onkeydown="javascript: return event.keyCode == 69 ? false : true" [(ngModel)]="perPage"
+       [placeholder]="perPage">
+<br>
+<!-- add new game -->
+<button type="button" class="btn btn-default" (click)="addNew()">create</button>
 
 <table class="table table-responsive">
   <thead class="page-header">
@@ -26,7 +34,7 @@
     </td>
   </tr>
   <!--display all games-->
-  <ng-container *ngFor="let game of games">
+  <ng-container *ngFor="let game of games | paginate : {itemsPerPage: perPage, currentPage: game} ">
     <tr *ngIf="(!editMode )||(editMode && (game.id !== saveGameForEdit.id))">
       <td>{{game.team1}}</td>
       <td>{{game.team2}}</td>
@@ -52,6 +60,7 @@
       </td>
     </tr>
   </ng-container>
+  <pagination-controls (pageChange)="game =$event"></pagination-controls>
   </tbody>
 </table>
 
