@@ -239,9 +239,8 @@ public class AfterLoginEclipse {
                         JOptionPane.showMessageDialog(btnBuyTickets, "game id or client name don't exist or not enough tickets available!");
                     } else if (numberFormatException == false) {
                         clientCtrl.buyTickets(clinetNameTextField.getText(), Integer.parseInt(idGameTextField.getText()),
-                                Integer.parseInt(numberOfTicketsTtextField.getText()));
+                                Integer.parseInt(numberOfTicketsTtextField.getText()), AfterLoginEclipse.this);
                         JOptionPane.showMessageDialog(btnBuyTickets, "Success!!");
-                        setTable(1);
                     }
                 } catch (SQLException e) {
                     e.printStackTrace();
@@ -252,13 +251,7 @@ public class AfterLoginEclipse {
         });
     }
 
-    public void updateTableWithData() throws SQLException, RemoteException {
-        this.newTable(this.clientCtrl.getAllGames());
-    }
-
-    public boolean wasTheTableUpdated() {
-        if (btnBuyTickets.getModel().isPressed())
-            return true;
-        return false;
+    public void refreshTable() throws SQLException, RemoteException {
+        this.setTable(1);
     }
 }

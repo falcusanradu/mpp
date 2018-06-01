@@ -19,7 +19,7 @@ public class UserRepository extends Repo implements IUserRepo {
 
     @Override
     public boolean existsUserByUsername(String username) throws SQLException {
-        ResultSet rs = selectQuery("SELECT * FROM game_table WHERE id_game ='" + username + "'");
+        ResultSet rs = selectQuery("SELECT * FROM user_table WHERE username ='" + username + "'");
         if (rs.first()) {
             connection.close();
             return true;

@@ -6,40 +6,41 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class ClientCtrl extends UnicastRemoteObject implements IObserverNew, Serializable {
+public class ClientCtrl extends UnicastRemoteObject implements IObserver, Serializable {
+
 
     // this is my server interface.
     private IServices server;
 
-    private UserRepository userRepository = new UserRepository();
-    private GameRepository gameRepository = new GameRepository();
+    private AfterLoginEclipse afterLoginEclipse;
 
     public ClientCtrl(IServices server) throws RemoteException {
         this.server = server;
     }
 
     public boolean login(String username, String password) throws SQLException {
-        if (this.userRepository.login(username, password) != null) {
+        if (this.server.login(username, password) != null) {
             return true;
         }
         return false;
     }
 
     public List<Game> getAllGames() throws SQLException {
-        return this.gameRepository.getAllGames();
+        return this.server.getAllGames();
     }
 
     public boolean buyTicketsCondition(String clientName, Integer idGame, Integer numberWantedTickets) throws SQLException {
-        if (this.userRepository.existsUserByUsername(clientName) && this.gameRepository
+        if (this.server.existsUserByUsername(clientName) && this.server
                 .existsEnoughTickets(idGame, numberWantedTickets)) {
             return true;
         }
         return false;
     }
 
-    public void buyTickets(String clientName, Integer idGame, Integer numberWantedTickets) throws SQLException, RemoteException {
+    public void buyTickets(String clientName, Integer idGame, Integer numberWantedTickets, AfterLoginEclipse afterLoginEclipse) throws SQLException, RemoteException {
         if (this.buyTicketsCondition(clientName, idGame, numberWantedTickets)) {
-            this.gameRepository.updatenrTicketsAfterBuying(idGame, numberWantedTickets);
+            this.server.updatenrTicketsAfterBuying(idGame, numberWantedTickets);
+            this.afterLoginEclipse = afterLoginEclipse;
             this.refreshTable();
         }
     }
@@ -51,8 +52,12 @@ public class ClientCtrl extends UnicastRemoteObject implements IObserverNew, Ser
 
     @Override
     public void refreshTable() throws RemoteException {
-        // TODO:
-        System.out.println("TODO: refresh");
-        this.server.wasTheTableUpdated();
+        try {
+            this.afterLoginEclipse.refreshTable();
+            this.server.updateTableForOtherClients();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
     }
 }
