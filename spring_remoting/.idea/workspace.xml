@@ -2,43 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15b8e783-720c-4fca-be43-554fc4cdfdb4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileContent/annotation-processors.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileContent/annotation-processors.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileContent/fileContent.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/resourceHashesCache.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/clientGUI/clientGUI_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/clientGUI/clientGUI_main.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/clientGUI/clientGUI_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/clientGUI/clientGUI_test.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/server/server_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/server/server_main.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/server/server_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/server/server_test.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/services/services_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/services/services_main.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/services/services_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/services/services_test.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/clientGUI/build.gradle" afterPath="$PROJECT_DIR$/clientGUI/build.gradle" />
       <change beforePath="$PROJECT_DIR$/clientGUI/out/production/classes/AfterLoginEclipse$1.class" afterPath="$PROJECT_DIR$/clientGUI/out/production/classes/AfterLoginEclipse$1.class" />
       <change beforePath="$PROJECT_DIR$/clientGUI/out/production/classes/AfterLoginEclipse$2.class" afterPath="$PROJECT_DIR$/clientGUI/out/production/classes/AfterLoginEclipse$2.class" />
       <change beforePath="$PROJECT_DIR$/clientGUI/out/production/classes/AfterLoginEclipse$3.class" afterPath="$PROJECT_DIR$/clientGUI/out/production/classes/AfterLoginEclipse$3.class" />
       <change beforePath="$PROJECT_DIR$/clientGUI/out/production/classes/AfterLoginEclipse.class" afterPath="$PROJECT_DIR$/clientGUI/out/production/classes/AfterLoginEclipse.class" />
       <change beforePath="$PROJECT_DIR$/clientGUI/out/production/classes/ClientCtrl.class" afterPath="$PROJECT_DIR$/clientGUI/out/production/classes/ClientCtrl.class" />
+      <change beforePath="$PROJECT_DIR$/clientGUI/out/production/classes/SwingGUIEclipse$1.class" afterPath="$PROJECT_DIR$/clientGUI/out/production/classes/SwingGUIEclipse$1.class" />
+      <change beforePath="$PROJECT_DIR$/clientGUI/out/production/classes/SwingGUIEclipse.class" afterPath="$PROJECT_DIR$/clientGUI/out/production/classes/SwingGUIEclipse.class" />
       <change beforePath="$PROJECT_DIR$/clientGUI/src/main/java/AfterLoginEclipse.java" afterPath="$PROJECT_DIR$/clientGUI/src/main/java/AfterLoginEclipse.java" />
       <change beforePath="$PROJECT_DIR$/clientGUI/src/main/java/ClientCtrl.java" afterPath="$PROJECT_DIR$/clientGUI/src/main/java/ClientCtrl.java" />
-      <change beforePath="$PROJECT_DIR$/clientGUI/src/main/java/StartClient.java" afterPath="$PROJECT_DIR$/clientGUI/src/main/java/StartClient.java" />
-      <change beforePath="$PROJECT_DIR$/model/build/classes/java/main/Game.class" afterPath="$PROJECT_DIR$/model/build/classes/java/main/Game.class" />
-      <change beforePath="$PROJECT_DIR$/model/build/classes/java/main/User.class" afterPath="$PROJECT_DIR$/model/build/classes/java/main/User.class" />
-      <change beforePath="$PROJECT_DIR$/model/build/libs/model-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/model/build/libs/model-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/server/build.gradle" afterPath="$PROJECT_DIR$/server/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/clientGUI/src/main/java/SwingGUIEclipse.java" afterPath="$PROJECT_DIR$/clientGUI/src/main/java/SwingGUIEclipse.java" />
       <change beforePath="$PROJECT_DIR$/server/out/production/classes/ServerImpl.class" afterPath="$PROJECT_DIR$/server/out/production/classes/ServerImpl.class" />
-      <change beforePath="$PROJECT_DIR$/server/out/production/resources/spring-server.xml" afterPath="$PROJECT_DIR$/server/out/production/resources/spring-server.xml" />
       <change beforePath="$PROJECT_DIR$/server/src/main/java/ServerImpl.java" afterPath="$PROJECT_DIR$/server/src/main/java/ServerImpl.java" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/resources/spring-server.xml" afterPath="$PROJECT_DIR$/server/src/main/resources/spring-server.xml" />
-      <change beforePath="$PROJECT_DIR$/services/build.gradle" afterPath="$PROJECT_DIR$/services/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/services/build/libs/services-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/services/build/libs/services-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/services/out/production/classes/IObserver.class" afterPath="$PROJECT_DIR$/services/out/production/classes/IObserver.class" />
       <change beforePath="$PROJECT_DIR$/services/out/production/classes/IServices.class" afterPath="$PROJECT_DIR$/services/out/production/classes/IServices.class" />
-      <change beforePath="$PROJECT_DIR$/services/src/main/java/IObserver.java" afterPath="$PROJECT_DIR$/services/src/main/java/IObserver.java" />
       <change beforePath="$PROJECT_DIR$/services/src/main/java/IServices.java" afterPath="$PROJECT_DIR$/services/src/main/java/IServices.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -131,8 +109,28 @@
       <file leaf-file-name="AfterLoginEclipse.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/AfterLoginEclipse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            <state relative-caret-position="194">
+              <caret line="100" column="50" lean-forward="false" selection-start-line="100" selection-start-column="45" selection-end-line="100" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="747" column="0" lean-forward="false" selection-start-line="747" selection-start-column="0" selection-end-line="747" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwingGUIEclipse.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/SwingGUIEclipse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="48" column="57" lean-forward="false" selection-start-line="48" selection-start-column="57" selection-end-line="48" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -148,21 +146,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/services/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IServices.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IServices.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/services/src/main/java/IServices.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="72" lean-forward="true" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+            <state relative-caret-position="231">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -174,7 +162,7 @@
         <entry file="file://$PROJECT_DIR$/services/src/main/java/IObserver.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
-              <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+              <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -183,28 +171,31 @@
       <file leaf-file-name="ClientCtrl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/ClientCtrl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" column="64" lean-forward="true" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
-              <folding />
+            <state relative-caret-position="168">
+              <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding>
+                <element signature="e#2056#2057#0" expanded="true" />
+                <element signature="e#2096#2097#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clientGUI/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StartServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/main/java/StartServer.java">
+      <file leaf-file-name="IServices.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services/out/production/classes/IServices.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring-client.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clientGUI/src/main/resources/spring-client.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="54" lean-forward="false" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -213,8 +204,8 @@
       <file leaf-file-name="ServerImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/src/main/java/ServerImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -233,37 +224,40 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>userClientCtrl</find>
-      <find>CHAT</find>
-      <find>Spectacol</find>
-      <find>tained a reference to remote serve</find>
-      <find>extends remo</find>
-      <find>sockets_incerc</find>
-      <find>_table</find>
-      <find>game id</find>
-      <find>refreshTable</find>
-      <find>buytickets</find>
-      <find>clientCtrl.buy</find>
-      <find>clientCtrl.buyTicke</find>
-      <find>clientCtrl.buyTickets(</find>
       <find>setm</find>
       <find>repo</find>
       <find>existsUserByUsername</find>
-      <find>new</find>
       <find>loginaf</find>
       <find>afterLoginEclipse.</find>
       <find>server.</find>
       <find>ServerImpl</find>
-      <find>logout</find>
       <find>setacti</find>
       <find>login(</find>
       <find>table must be updated -- server</find>
       <find>notif</find>
-      <find>static</find>
-      <find>log</find>
       <find>updateTableForOtherClients</find>
+      <find>this)</find>
+      <find>lo</find>
+      <find>this.corespondingClass.add(afterLoginEclipse);logo</find>
+      <find>noti</find>
+      <find>this.loggedClients.size()</find>
+      <find>logou</find>
+      <find>init</find>
+      <find>set</find>
+      <find>static</find>
+      <find>!!</find>
+      <find>afterlo</find>
+      <find>logout</find>
+      <find>after</find>
+      <find>log</find>
+      <find>game</find>
+      <find>new</find>
       <find>login</find>
+      <find>new af</find>
     </findStrings>
+    <replaceStrings>
+      <replace>logout</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -1361,7 +1355,6 @@
         <option value="$PROJECT_DIR$/model/src/main/java/Game.java" />
         <option value="$PROJECT_DIR$/model/src/main/java/User.java" />
         <option value="$PROJECT_DIR$/server/src/main/java/StartServer.java" />
-        <option value="$PROJECT_DIR$/clientGUI/src/main/java/SwingGUIEclipse.java" />
         <option value="$PROJECT_DIR$/clientGUI/src/main/resources/spring-client.xml" />
         <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/services/src/main/java/IObserverNew.java" />
@@ -1372,13 +1365,14 @@
         <option value="$PROJECT_DIR$/clientGUI/src/main/java/StartClient.java" />
         <option value="$PROJECT_DIR$/server/src/main/resources/spring-server.xml" />
         <option value="$PROJECT_DIR$/server/build.gradle" />
-        <option value="$PROJECT_DIR$/services/src/main/java/IObserver.java" />
         <option value="$PROJECT_DIR$/clientGUI/build.gradle" />
-        <option value="$PROJECT_DIR$/clientGUI/src/main/java/AfterLoginEclipse.java" />
         <option value="$PROJECT_DIR$/services/build.gradle" />
+        <option value="$PROJECT_DIR$/clientGUI/src/main/java/SwingGUIEclipse.java" />
+        <option value="$PROJECT_DIR$/clientGUI/src/main/java/AfterLoginEclipse.java" />
+        <option value="$PROJECT_DIR$/services/src/main/java/IObserver.java" />
+        <option value="$PROJECT_DIR$/services/src/main/java/IServices.java" />
         <option value="$PROJECT_DIR$/server/src/main/java/ServerImpl.java" />
         <option value="$PROJECT_DIR$/clientGUI/src/main/java/ClientCtrl.java" />
-        <option value="$PROJECT_DIR$/services/src/main/java/IServices.java" />
       </list>
     </option>
   </component>
@@ -1420,6 +1414,40 @@
             <path>
               <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring_remoting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_remoting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="clientGUI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_remoting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="clientGUI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_remoting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="clientGUI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_remoting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="clientGUI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_remoting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="clientGUI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
@@ -1487,7 +1515,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/server/src/main/java/ServerImpl.java&#10;server&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/server/src/main/java/ServerImpl.java&#10;startc&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/clientGUI/src/main/java/StartClient.java&#10;client&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/clientGUI/src/main/java/ClientCtrl.java&#10;startser&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/server/src/main/java/StartServer.java&#10;startcli&#9;RUN_CONFIGURATION&#9;StartClient&#10;AfterLoginEclipse.ja&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/clientGUI/src/main/java/AfterLoginEclipse.java&#10;ale&#9;PSI&#9;JAVA://mpp_spring_remoting.ALE&#10;serverim&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/server/src/main/java/ServerImpl.java&#10;st&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/server/src/main/java/StartServer.java&#10;startserver&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/server/src/main/java/StartServer.java&#10;start&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/clientGUI/src/main/java/StartClient.java&#10;clientc&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/clientGUI/src/main/java/ClientCtrl.java&#10;iobser&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/services/src/main/java/IObserver.java&#10;serv&#9;PSI&#9;JAVA://StartServer" />
+    <property name="SearchEverywhereHistoryKey" value="iob&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/services/src/main/java/IObserver.java&#10;server&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/server/src/main/java/ServerImpl.java&#10;startc&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/clientGUI/src/main/java/StartClient.java&#10;client&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/clientGUI/src/main/java/ClientCtrl.java&#10;startser&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/server/src/main/java/StartServer.java&#10;startcli&#9;RUN_CONFIGURATION&#9;StartClient&#10;AfterLoginEclipse.ja&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/clientGUI/src/main/java/AfterLoginEclipse.java&#10;ale&#9;PSI&#9;JAVA://mpp_spring_remoting.ALE&#10;serverim&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/server/src/main/java/ServerImpl.java&#10;st&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/server/src/main/java/StartServer.java&#10;startserver&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/server/src/main/java/StartServer.java&#10;start&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/clientGUI/src/main/java/StartClient.java&#10;clientc&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/clientGUI/src/main/java/ClientCtrl.java&#10;iobser&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/services/src/main/java/IObserver.java&#10;serv&#9;PSI&#9;JAVA://StartServer" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -1728,12 +1756,12 @@
       <workItem from="1525893494218" duration="341000" />
       <workItem from="1526237624265" duration="650000" />
       <workItem from="1527967753765" duration="48000" />
-      <workItem from="1528020099024" duration="13171000" />
+      <workItem from="1528020099024" duration="18265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47403000" />
+    <option name="totallyTimeSpent" value="52497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -1749,17 +1777,17 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3988827" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44469273" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5318436" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3452514" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3452514" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23845327" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23845327" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23308271" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1787,7 +1815,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3988827" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40782124" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5318436" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1799,10 +1827,10 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3452514" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23845327" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23845327" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23308271" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23308271" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
@@ -1817,30 +1845,64 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/clientGUI/src/main/java/ClientCtrl.java</url>
-          <line>57</line>
+          <url>file://$PROJECT_DIR$/clientGUI/src/main/java/SwingGUIEclipse.java</url>
+          <line>49</line>
           <properties />
-          <option name="timeStamp" value="12" />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clientGUI/src/main/java/AfterLoginEclipse.java</url>
+          <line>136</line>
+          <properties />
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/server/src/main/java/ServerImpl.java</url>
-          <line>37</line>
+          <line>35</line>
           <properties />
-          <option name="timeStamp" value="15" />
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/clientGUI/src/main/java/ClientCtrl.java</url>
-          <line>41</line>
+          <url>file://$PROJECT_DIR$/server/src/main/java/ServerImpl.java</url>
+          <line>45</line>
           <properties />
-          <option name="timeStamp" value="18" />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clientGUI/src/main/java/AfterLoginEclipse.java</url>
+          <line>256</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clientGUI/src/main/java/AfterLoginEclipse.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clientGUI/src/main/java/AfterLoginEclipse.java</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="19" />
+      <option name="time" value="37" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>this.afterLoginEclipse</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.loggedClients.size()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>iObserver</expression-string>
         <language-id>JAVA</language-id>
@@ -1876,27 +1938,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>this.server.existsUserByUsername(clientName) &amp;&amp; this.server
-                .existsEnoughTickets(idGame, numberWantedTickets)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>numberFormatException</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/persistence/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/persistence/src/main/java/IGameRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -1981,13 +2025,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/resources/spring-client.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2019,20 +2056,6 @@
         <state relative-caret-position="210">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.0.4.RELEASE/49f1c19070743b0446782f38a3fb5b6a4f0e4a74/spring-context-5.0.4.RELEASE-sources.jar!/org/springframework/remoting/support/RemoteInvocationTraceInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.0.4.RELEASE/2194663096078c5a46bace998ec2d2a6f9fe4857/spring-aop-5.0.4.RELEASE-sources.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="162" column="0" lean-forward="false" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -2081,14 +2104,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/SwingGUIEclipse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/clientGUI/out/production/resources/spring-client.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -2113,17 +2128,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services/out/production/classes/IServices.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-          <folding>
-            <marker date="1528037113466" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1528037113466" expanded="false" signature="113:191" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -2132,26 +2136,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/StartClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/src/main/java/StartServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/src/main/java/IObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -2180,22 +2168,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/AfterLoginEclipse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.0.4.RELEASE/2194663096078c5a46bace998ec2d2a6f9fe4857/spring-aop-5.0.4.RELEASE-sources.jar!/org/springframework/aop/support/AopUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="342" column="0" lean-forward="false" selection-start-line="342" selection-start-column="0" selection-end-line="342" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/services/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -2204,29 +2176,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/main/java/ServerImpl.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.0.4.RELEASE/49f1c19070743b0446782f38a3fb5b6a4f0e4a74/spring-context-5.0.4.RELEASE-sources.jar!/org/springframework/remoting/support/RemoteInvocationTraceInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state relative-caret-position="271">
+          <caret line="82" column="26" lean-forward="true" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/ClientCtrl.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.0.4.RELEASE/2194663096078c5a46bace998ec2d2a6f9fe4857/spring-aop-5.0.4.RELEASE-sources.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="64" lean-forward="true" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+        <state relative-caret-position="120">
+          <caret line="162" column="0" lean-forward="false" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.0.4.RELEASE/2194663096078c5a46bace998ec2d2a6f9fe4857/spring-aop-5.0.4.RELEASE-sources.jar!/org/springframework/aop/support/AopUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="337" column="0" lean-forward="false" selection-start-line="337" selection-start-column="0" selection-end-line="337" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="747" column="0" lean-forward="false" selection-start-line="747" selection-start-column="0" selection-end-line="747" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/out/production/classes/IServices.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/resources/spring-client.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="54" lean-forward="false" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/src/main/java/IObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/services/src/main/java/IServices.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="72" lean-forward="true" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+        <state relative-caret-position="231">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ServerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/AfterLoginEclipse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="100" column="50" lean-forward="false" selection-start-line="100" selection-start-column="45" selection-end-line="100" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/StartClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/ClientCtrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#2056#2057#0" expanded="true" />
+            <element signature="e#2096#2097#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/SwingGUIEclipse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="48" column="57" lean-forward="false" selection-start-line="48" selection-start-column="57" selection-end-line="48" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>

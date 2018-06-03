@@ -4,13 +4,14 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.table.DefaultTableModel;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.Serializable;
 import java.rmi.RemoteException;
 import java.sql.SQLException;
 import java.util.List;
 
-public class AfterLoginEclipse {
+public class AfterLoginEclipse implements Serializable {
 
-    private ClientCtrl clientCtrl;
+    private static ClientCtrl clientCtrl;
 
     private JPanel contentPane;
     private JTable jtable;
@@ -134,6 +135,7 @@ public class AfterLoginEclipse {
                 }
                 try {
                     clientCtrl.logout();
+//                    frame.setVisible(false);
                     swingGUIEclipse.frame.setVisible(true);
                 } catch (RemoteException e) {
                     e.printStackTrace();
@@ -239,7 +241,7 @@ public class AfterLoginEclipse {
                         JOptionPane.showMessageDialog(btnBuyTickets, "game id or client name don't exist or not enough tickets available!");
                     } else if (numberFormatException == false) {
                         clientCtrl.buyTickets(clinetNameTextField.getText(), Integer.parseInt(idGameTextField.getText()),
-                                Integer.parseInt(numberOfTicketsTtextField.getText()), AfterLoginEclipse.this);
+                                Integer.parseInt(numberOfTicketsTtextField.getText()));
                         JOptionPane.showMessageDialog(btnBuyTickets, "Success!!");
                     }
                 } catch (SQLException e) {

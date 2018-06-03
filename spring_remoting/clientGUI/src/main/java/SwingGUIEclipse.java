@@ -47,6 +47,7 @@ public class SwingGUIEclipse {
                     } else {
                         frame.dispose();
                         AfterLoginEclipse afterLogin = new AfterLoginEclipse(userClientCtrl);
+                        userClientCtrl.setAfterLoginEclipse(afterLogin);
                         afterLogin.frame.setVisible(true);
                         // this.dispose();
                     }

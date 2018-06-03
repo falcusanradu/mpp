@@ -10,19 +10,22 @@ public class ServerImpl implements IServices {
     private UserRepository userRepository;
     private GameRepository gameRepository;
     private List<IObserver> loggedClients;
+//    private List<AfterLoginEclipse> corespondingClass;
 
 
     public ServerImpl(UserRepository userRepository, GameRepository gameRepository) {
         this.loggedClients = new ArrayList<>();
+//        this.corespondingClass = new ArrayList<>();
         this.userRepository = userRepository;
         this.gameRepository = gameRepository;
     }
 
 
     @Override
-    public synchronized boolean login(String username, String password, IObserver iObserver, AfterLoginEclipse afterLoginEclipse) throws RemoteException, SQLException {
+    public synchronized boolean login(String username, String password, IObserver iObserver) throws RemoteException, SQLException {
         if (this.userRepository.login(username, password) != null) {
             this.loggedClients.add(iObserver);
+//            this.corespondingClass.add(afterLoginEclipse);
             return true;
         }
         return false;
@@ -31,6 +34,7 @@ public class ServerImpl implements IServices {
     @Override
     public synchronized void logout(IObserver iObserver) throws RemoteException {
         this.loggedClients.remove(iObserver);
+//        this.corespondingClass.add(afterLoginEclipse);
     }
 
     @Override
@@ -39,17 +43,16 @@ public class ServerImpl implements IServices {
         ExecutorService executor = Executors.newFixedThreadPool(this.loggedClients.size());
 
         executor.execute(() -> {
-            this.loggedClients.forEach(c -> {
-
+            for (int i = 0; i < this.loggedClients.size(); i++) {
                 try {
-                    c.nofityClient();
+                    this.loggedClients.get(i).nofityClient();
                 } catch (RemoteException e) {
                     e.printStackTrace();
                 }
-            });
-            executor.shutdown();
-        });
+            }
 
+        });
+        executor.shutdown();
 
     }
 
