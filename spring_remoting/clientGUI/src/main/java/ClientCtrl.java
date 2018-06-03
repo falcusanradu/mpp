@@ -18,11 +18,12 @@ public class ClientCtrl extends UnicastRemoteObject implements IObserver, Serial
         this.server = server;
     }
 
-    public boolean login(String username, String password) throws SQLException {
-        if (this.server.login(username, password) != null) {
-            return true;
-        }
-        return false;
+    public boolean login(String username, String password) throws RemoteException, SQLException {
+        return this.server.login(username, password, this, this.afterLoginEclipse);
+    }
+
+    public void logout() throws RemoteException {
+        this.server.logout(this);
     }
 
     public List<Game> getAllGames() throws SQLException {
@@ -41,7 +42,6 @@ public class ClientCtrl extends UnicastRemoteObject implements IObserver, Serial
         if (this.buyTicketsCondition(clientName, idGame, numberWantedTickets)) {
             this.server.updatenrTicketsAfterBuying(idGame, numberWantedTickets);
             this.afterLoginEclipse = afterLoginEclipse;
-            this.refreshTable();
         }
     }
 
@@ -50,11 +50,12 @@ public class ClientCtrl extends UnicastRemoteObject implements IObserver, Serial
         return this.getAllGames().stream().sorted(comparator).collect(Collectors.toList());
     }
 
+
+
     @Override
-    public void refreshTable() throws RemoteException {
+    public void nofityClient() throws RemoteException {
         try {
             this.afterLoginEclipse.refreshTable();
-            this.server.updateTableForOtherClients();
         } catch (SQLException e) {
             e.printStackTrace();
         }

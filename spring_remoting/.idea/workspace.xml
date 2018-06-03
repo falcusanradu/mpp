@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15b8e783-720c-4fca-be43-554fc4cdfdb4" name="Default" comment="" />
+    <list default="true" id="15b8e783-720c-4fca-be43-554fc4cdfdb4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileContent/annotation-processors.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileContent/annotation-processors.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileContent/fileContent.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/resourceHashesCache.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/clientGUI/clientGUI_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/clientGUI/clientGUI_main.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/clientGUI/clientGUI_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/clientGUI/clientGUI_test.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/server/server_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/server/server_main.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/server/server_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/server/server_test.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/services/services_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/services/services_main.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/services/services_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/services/services_test.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/clientGUI/build.gradle" afterPath="$PROJECT_DIR$/clientGUI/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/clientGUI/out/production/classes/AfterLoginEclipse$1.class" afterPath="$PROJECT_DIR$/clientGUI/out/production/classes/AfterLoginEclipse$1.class" />
+      <change beforePath="$PROJECT_DIR$/clientGUI/out/production/classes/AfterLoginEclipse$2.class" afterPath="$PROJECT_DIR$/clientGUI/out/production/classes/AfterLoginEclipse$2.class" />
+      <change beforePath="$PROJECT_DIR$/clientGUI/out/production/classes/AfterLoginEclipse$3.class" afterPath="$PROJECT_DIR$/clientGUI/out/production/classes/AfterLoginEclipse$3.class" />
+      <change beforePath="$PROJECT_DIR$/clientGUI/out/production/classes/AfterLoginEclipse.class" afterPath="$PROJECT_DIR$/clientGUI/out/production/classes/AfterLoginEclipse.class" />
+      <change beforePath="$PROJECT_DIR$/clientGUI/out/production/classes/ClientCtrl.class" afterPath="$PROJECT_DIR$/clientGUI/out/production/classes/ClientCtrl.class" />
+      <change beforePath="$PROJECT_DIR$/clientGUI/src/main/java/AfterLoginEclipse.java" afterPath="$PROJECT_DIR$/clientGUI/src/main/java/AfterLoginEclipse.java" />
+      <change beforePath="$PROJECT_DIR$/clientGUI/src/main/java/ClientCtrl.java" afterPath="$PROJECT_DIR$/clientGUI/src/main/java/ClientCtrl.java" />
+      <change beforePath="$PROJECT_DIR$/clientGUI/src/main/java/StartClient.java" afterPath="$PROJECT_DIR$/clientGUI/src/main/java/StartClient.java" />
+      <change beforePath="$PROJECT_DIR$/model/build/classes/java/main/Game.class" afterPath="$PROJECT_DIR$/model/build/classes/java/main/Game.class" />
+      <change beforePath="$PROJECT_DIR$/model/build/classes/java/main/User.class" afterPath="$PROJECT_DIR$/model/build/classes/java/main/User.class" />
+      <change beforePath="$PROJECT_DIR$/model/build/libs/model-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/model/build/libs/model-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/server/build.gradle" afterPath="$PROJECT_DIR$/server/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/server/out/production/classes/ServerImpl.class" afterPath="$PROJECT_DIR$/server/out/production/classes/ServerImpl.class" />
+      <change beforePath="$PROJECT_DIR$/server/out/production/resources/spring-server.xml" afterPath="$PROJECT_DIR$/server/out/production/resources/spring-server.xml" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/ServerImpl.java" afterPath="$PROJECT_DIR$/server/src/main/java/ServerImpl.java" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/resources/spring-server.xml" afterPath="$PROJECT_DIR$/server/src/main/resources/spring-server.xml" />
+      <change beforePath="$PROJECT_DIR$/services/build.gradle" afterPath="$PROJECT_DIR$/services/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/services/build/libs/services-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/services/build/libs/services-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/services/out/production/classes/IObserver.class" afterPath="$PROJECT_DIR$/services/out/production/classes/IObserver.class" />
+      <change beforePath="$PROJECT_DIR$/services/out/production/classes/IServices.class" afterPath="$PROJECT_DIR$/services/out/production/classes/IServices.class" />
+      <change beforePath="$PROJECT_DIR$/services/src/main/java/IObserver.java" afterPath="$PROJECT_DIR$/services/src/main/java/IObserver.java" />
+      <change beforePath="$PROJECT_DIR$/services/src/main/java/IServices.java" afterPath="$PROJECT_DIR$/services/src/main/java/IServices.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -78,7 +117,7 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="sockets_incercare" type="f1a62948:ProjectNode" />
+                <item name="springRemoting" type="f1a62948:ProjectNode" />
               </path>
             </expand>
             <select />
@@ -89,24 +128,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="AfterLoginEclipse.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AfterLoginEclipse.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/AfterLoginEclipse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="238" column="45" lean-forward="false" selection-start-line="238" selection-start-column="45" selection-end-line="238" selection-end-column="45" />
+            <state relative-caret-position="105">
+              <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IServices.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/services/src/main/java/IServices.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -114,8 +141,28 @@
       <file leaf-file-name="StartClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/StartClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="126">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IServices.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/services/src/main/java/IServices.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="72" lean-forward="true" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,55 +170,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ServerImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/main/java/ServerImpl.java">
+      <file leaf-file-name="IObserver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services/src/main/java/IObserver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AopUtils.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.0.4.RELEASE/2194663096078c5a46bace998ec2d2a6f9fe4857/spring-aop-5.0.4.RELEASE-sources.jar!/org/springframework/aop/support/AopUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="337" column="0" lean-forward="false" selection-start-line="337" selection-start-column="0" selection-end-line="337" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GameRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/persistence/src/main/java/GameRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/persistence/src/main/java/UserRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StartServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/main/java/StartServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="63">
+              <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -180,8 +183,38 @@
       <file leaf-file-name="ClientCtrl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/ClientCtrl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+            <state relative-caret-position="210">
+              <caret line="16" column="64" lean-forward="true" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clientGUI/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StartServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/StartServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServerImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/ServerImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -200,11 +233,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>compile group: 'mysql', name: 'mysql-connector-java', version: '5.1.6'</find>
-      <find>main</find>
-      <find>succ</find>
-      <find>chat</find>
-      <find>after</find>
       <find>userClientCtrl</find>
       <find>CHAT</find>
       <find>Spectacol</find>
@@ -221,7 +249,24 @@
       <find>setm</find>
       <find>repo</find>
       <find>existsUserByUsername</find>
+      <find>new</find>
+      <find>loginaf</find>
+      <find>afterLoginEclipse.</find>
+      <find>server.</find>
+      <find>ServerImpl</find>
+      <find>logout</find>
+      <find>setacti</find>
+      <find>login(</find>
+      <find>table must be updated -- server</find>
+      <find>notif</find>
+      <find>static</find>
+      <find>log</find>
+      <find>updateTableForOtherClients</find>
+      <find>login</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -1076,16 +1121,16 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="12222605864673" />
+        <entry key="$PROJECT_DIR$" value="12223232830884" />
         <entry key="$PROJECT_DIR$/Client/build.gradle" value="2654352323" />
         <entry key="$PROJECT_DIR$/build.gradle" value="587930104" />
-        <entry key="$PROJECT_DIR$/clientGUI/build.gradle" value="3072144702" />
+        <entry key="$PROJECT_DIR$/clientGUI/build.gradle" value="3392052585" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="566444372" />
-        <entry key="$PROJECT_DIR$/model/build.gradle" value="1771563596" />
+        <entry key="$PROJECT_DIR$/model/build.gradle" value="3097308492" />
         <entry key="$PROJECT_DIR$/networking/build.gradle" value="3154227910" />
-        <entry key="$PROJECT_DIR$/persistence/build.gradle" value="1193418902" />
-        <entry key="$PROJECT_DIR$/server/build.gradle" value="2980074490" />
-        <entry key="$PROJECT_DIR$/services/build.gradle" value="1251826559" />
+        <entry key="$PROJECT_DIR$/persistence/build.gradle" value="2769655935" />
+        <entry key="$PROJECT_DIR$/server/build.gradle" value="3571391509" />
+        <entry key="$PROJECT_DIR$/services/build.gradle" value="687426179" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="1826190913" />
         <entry key="$PROJECT_DIR$/springRemoting/build.gradle" value="2035519745" />
       </map>
@@ -1304,7 +1349,6 @@
         <option value="$PROJECT_DIR$/persistence/src/main/java/Service.java" />
         <option value="$PROJECT_DIR$/clientGUI/src/main/java/Service.java" />
         <option value="$PROJECT_DIR$/persistence/src/main/java/IUserRepo.java" />
-        <option value="$PROJECT_DIR$/server/build.gradle" />
         <option value="$PROJECT_DIR$/networking/build.gradle" />
         <option value="$PROJECT_DIR$/springRemoting/build.gradle" />
         <option value="$PROJECT_DIR$/Client/build.gradle" />
@@ -1316,22 +1360,25 @@
         <option value="$PROJECT_DIR$/services/src/main/java/MyException.java" />
         <option value="$PROJECT_DIR$/model/src/main/java/Game.java" />
         <option value="$PROJECT_DIR$/model/src/main/java/User.java" />
-        <option value="$PROJECT_DIR$/clientGUI/build.gradle" />
         <option value="$PROJECT_DIR$/server/src/main/java/StartServer.java" />
         <option value="$PROJECT_DIR$/clientGUI/src/main/java/SwingGUIEclipse.java" />
-        <option value="$PROJECT_DIR$/clientGUI/src/main/java/StartClient.java" />
-        <option value="$PROJECT_DIR$/server/src/main/resources/spring-server.xml" />
         <option value="$PROJECT_DIR$/clientGUI/src/main/resources/spring-client.xml" />
         <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/services/src/main/java/IObserverNew.java" />
-        <option value="$PROJECT_DIR$/services/build.gradle" />
         <option value="$PROJECT_DIR$/services/src/main/java/AfterLoginEclipse.java" />
-        <option value="$PROJECT_DIR$/services/src/main/java/IObserver.java" />
-        <option value="$PROJECT_DIR$/services/src/main/java/IServices.java" />
-        <option value="$PROJECT_DIR$/clientGUI/src/main/java/ClientCtrl.java" />
         <option value="$PROJECT_DIR$/persistence/src/main/java/UserRepository.java" />
-        <option value="$PROJECT_DIR$/server/src/main/java/ServerImpl.java" />
+        <option value="$PROJECT_DIR$/clientGUI/src/main/java/RandomGUI.form" />
+        <option value="$PROJECT_DIR$/clientGUI/src/main/java/randomGUI.java" />
+        <option value="$PROJECT_DIR$/clientGUI/src/main/java/StartClient.java" />
+        <option value="$PROJECT_DIR$/server/src/main/resources/spring-server.xml" />
+        <option value="$PROJECT_DIR$/server/build.gradle" />
+        <option value="$PROJECT_DIR$/services/src/main/java/IObserver.java" />
+        <option value="$PROJECT_DIR$/clientGUI/build.gradle" />
         <option value="$PROJECT_DIR$/clientGUI/src/main/java/AfterLoginEclipse.java" />
+        <option value="$PROJECT_DIR$/services/build.gradle" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ServerImpl.java" />
+        <option value="$PROJECT_DIR$/clientGUI/src/main/java/ClientCtrl.java" />
+        <option value="$PROJECT_DIR$/services/src/main/java/IServices.java" />
       </list>
     </option>
   </component>
@@ -1347,6 +1394,7 @@
     <option name="width" value="1938" />
     <option name="height" value="1060" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -1362,10 +1410,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1376,59 +1424,33 @@
             <path>
               <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring_remoting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="clientGUI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_remoting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="clientGUI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_remoting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="clientGUI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_remoting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="clientGUI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_remoting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_remoting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_remoting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_remoting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring_remoting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="services" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_remoting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="services" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_remoting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="services" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_remoting" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="services" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springRemoting" type="b2602c69:ProjectViewProjectNode" />
@@ -1458,25 +1480,26 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../profa/ChatSpringRemoting" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="startcli&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/clientGUI/src/main/java/StartClient.java&#10;startser&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/server/src/main/java/StartServer.java&#10;server&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/services/src/main/java/IObserver.java&#10;start&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/clientGUI/src/main/java/StartClient.java&#10;clientc&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/clientGUI/src/main/java/ClientCtrl.java&#10;iobser&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/services/src/main/java/IObserver.java&#10;serv&#9;PSI&#9;JAVA://StartServer" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/server/src/main/java/ServerImpl.java&#10;server&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/server/src/main/java/ServerImpl.java&#10;startc&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/clientGUI/src/main/java/StartClient.java&#10;client&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/clientGUI/src/main/java/ClientCtrl.java&#10;startser&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/server/src/main/java/StartServer.java&#10;startcli&#9;RUN_CONFIGURATION&#9;StartClient&#10;AfterLoginEclipse.ja&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/clientGUI/src/main/java/AfterLoginEclipse.java&#10;ale&#9;PSI&#9;JAVA://mpp_spring_remoting.ALE&#10;serverim&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/server/src/main/java/ServerImpl.java&#10;st&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/server/src/main/java/StartServer.java&#10;startserver&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/server/src/main/java/StartServer.java&#10;start&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/clientGUI/src/main/java/StartClient.java&#10;clientc&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/clientGUI/src/main/java/ClientCtrl.java&#10;iobser&#9;FILE&#9;file://E:/an3sem2/mpp/repo/mpp/spring_remoting/services/src/main/java/IObserver.java&#10;serv&#9;PSI&#9;JAVA://StartServer" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\an3sem2\mpp\sockets_incercare\clientGUI\src\main\java" />
+      <recent name="E:\an3sem2\mpp\sockets_incercare\persistence\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\an3sem2\mpp\sockets_incercare\clientGUI\src\main\java" />
-      <recent name="E:\an3sem2\mpp\sockets_incercare\persistence\src\main\java" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1558,6 +1581,24 @@
       </ExternalSystemSettings>
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
     </configuration>
+    <configuration name="spring_remoting:clientGUI [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/clientGUI" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    </configuration>
     <configuration name="build (1)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="services" />
       <setting name="path" value="file://$PROJECT_DIR$/services/build.gradle" />
@@ -1567,19 +1608,11 @@
       <setting name="debug" value="false" />
     </configuration>
     <configuration name="build" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="services" />
-      <setting name="path" value="file://$PROJECT_DIR$/services/build.gradle" />
+      <module name="clientGUI" />
+      <setting name="path" value="file://$PROJECT_DIR$/clientGUI/build.gradle" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/services" />
-      <setting name="debug" value="false" />
-    </configuration>
-    <configuration name="settings" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="sockets_incercare" />
-      <setting name="path" value="file://$PROJECT_DIR$/settings.gradle" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/clientGUI" />
       <setting name="debug" value="false" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -1656,9 +1689,9 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Gradle.sockets_incercare:clientGUI [assemble]" />
-      <item index="1" class="java.lang.String" itemvalue="Application.StartServer" />
-      <item index="2" class="java.lang.String" itemvalue="Application.StartClient" />
-      <item index="3" class="java.lang.String" itemvalue="Groovy.settings" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.spring_remoting:clientGUI [build]" />
+      <item index="2" class="java.lang.String" itemvalue="Application.StartServer" />
+      <item index="3" class="java.lang.String" itemvalue="Application.StartClient" />
       <item index="4" class="java.lang.String" itemvalue="Groovy.build" />
       <item index="5" class="java.lang.String" itemvalue="Groovy.build (1)" />
     </list>
@@ -1668,7 +1701,7 @@
         <item index="1" class="java.lang.String" itemvalue="Application.StartServer" />
         <item index="2" class="java.lang.String" itemvalue="Groovy.build (1)" />
         <item index="3" class="java.lang.String" itemvalue="Groovy.build" />
-        <item index="4" class="java.lang.String" itemvalue="Groovy.settings" />
+        <item index="4" class="java.lang.String" itemvalue="Gradle.spring_remoting:clientGUI [build]" />
       </list>
     </recent_temporary>
   </component>
@@ -1694,11 +1727,13 @@
       <workItem from="1525210489269" duration="216000" />
       <workItem from="1525893494218" duration="341000" />
       <workItem from="1526237624265" duration="650000" />
+      <workItem from="1527967753765" duration="48000" />
+      <workItem from="1528020099024" duration="13171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34098000" />
+    <option name="totallyTimeSpent" value="47403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -1714,53 +1749,28 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39819005" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3988827" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32692307" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5318436" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4377828" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3452514" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23523094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23845327" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23308271" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40268457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.082706764" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39932507" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32845894" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43869516" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23200859" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23308271" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1777,20 +1787,22 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3988827" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5318436" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35418993" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3452514" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22234157" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23308271" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23845327" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23308271" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
@@ -1803,12 +1815,67 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="12" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clientGUI/src/main/java/ClientCtrl.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/ServerImpl.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clientGUI/src/main/java/ClientCtrl.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>iObserver</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.loggedClients.get(0).nofityClient()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.loggedClients.get(0).nofityClient();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.loggedClients.get(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.server.lo</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.server</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>return this.server.login(username, password, this);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>this.server.existsUserByUsername(clientName) &amp;&amp; this.server
                 .existsEnoughTickets(idGame, numberWantedTickets)</expression-string>
@@ -1820,98 +1887,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>this.server                 .existsEnoughTickets(idGame, numberWantedTickets)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>this.server.existsUserByUsername(clientName)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>return this.userRepository.existsUserByUsername(clientName);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>rs.next()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>rs</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>ResultSet rs = selectQuery(&quot;SELECT * FROM user_table WHERE username ='&quot; + username + &quot;'&quot;);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>clientName</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/persistence/src/main/java/IGameRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/persistence/src/main/java/IUserRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/AfterLoginEclipse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1932">
-          <caret line="98" column="31" lean-forward="false" selection-start-line="98" selection-start-column="31" selection-end-line="98" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/SwingGUIEclipse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/ClientCtrl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Client/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/clientGUI/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="18" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/networking/build.gradle" />
     <entry file="file://$PROJECT_DIR$/persistence/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1945,7 +1923,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1960,7 +1937,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1973,7 +1949,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="15" column="74" lean-forward="false" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1989,9 +1964,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1999,26 +1971,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#367#368#0" expanded="false" />
-            <element signature="e#398#399#0" expanded="false" />
-            <element signature="e#446#447#0" expanded="false" />
-            <element signature="e#486#487#0" expanded="false" />
-            <element signature="e#521#522#0" expanded="false" />
-            <element signature="e#552#553#0" expanded="false" />
-            <element signature="e#600#601#0" expanded="false" />
-            <element signature="e#640#641#0" expanded="false" />
-            <element signature="e#675#676#0" expanded="false" />
-            <element signature="e#706#707#0" expanded="false" />
-            <element signature="e#754#755#0" expanded="false" />
-            <element signature="e#794#795#0" expanded="false" />
-            <element signature="e#828#829#0" expanded="false" />
-            <element signature="e#858#859#0" expanded="false" />
-            <element signature="e#904#905#0" expanded="false" />
-            <element signature="e#942#943#0" expanded="false" />
-            <marker date="1527865182236" expanded="true" signature="326:333" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2026,21 +1978,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
           <caret line="101" column="16" lean-forward="false" selection-start-line="101" selection-start-column="16" selection-end-line="101" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/SwingGUIEclipse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/main/resources/spring-server.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2065,14 +2002,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clientGUI/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/services/src/main/java/MyException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -2084,30 +2013,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/src/main/java/AfterLoginEclipse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/services/src/main/java/AfterLoginEclipse.java" />
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -2116,57 +2022,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services/src/main/java/IObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/main/java/StartServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/StartClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/persistence/src/main/java/GameRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/src/main/java/IServices.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.0.4.RELEASE/49f1c19070743b0446782f38a3fb5b6a4f0e4a74/spring-context-5.0.4.RELEASE-sources.jar!/org/springframework/remoting/support/RemoteInvocationTraceInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
           <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2174,51 +2033,200 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="162" column="0" lean-forward="false" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.0.4.RELEASE/2194663096078c5a46bace998ec2d2a6f9fe4857/spring-aop-5.0.4.RELEASE-sources.jar!/org/springframework/aop/support/AopUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="337" column="0" lean-forward="false" selection-start-line="337" selection-start-column="0" selection-end-line="337" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/persistence/src/main/java/UserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="483">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/main/java/ServerImpl.java">
+    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/mpp_spring_remoting/ALE.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        <state relative-caret-position="735">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/RandomGUI.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/randomGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/build/tmp/jar/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/out/production/classes/MyException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/SwingGUIEclipse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientGUI/out/production/resources/spring-client.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/out/production/resources/spring-server.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/out/production/classes/IObserver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/out/production/classes/IServices.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
+            <marker date="1528037113466" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1528037113466" expanded="false" signature="113:191" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/ClientCtrl.java">
+    <entry file="file://$PROJECT_DIR$/server/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        <state relative-caret-position="273">
+          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/StartClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/StartServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/src/main/java/IObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/resources/spring-server.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/persistence/src/main/java/GameRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="683">
+          <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientGUI/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/AfterLoginEclipse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="238" column="45" lean-forward="false" selection-start-line="238" selection-start-column="45" selection-end-line="238" selection-end-column="45" />
+        <state relative-caret-position="105">
+          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.0.4.RELEASE/2194663096078c5a46bace998ec2d2a6f9fe4857/spring-aop-5.0.4.RELEASE-sources.jar!/org/springframework/aop/support/AopUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="342" column="0" lean-forward="false" selection-start-line="342" selection-start-column="0" selection-end-line="342" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ServerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientGUI/src/main/java/ClientCtrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="64" lean-forward="true" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/src/main/java/IServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="72" lean-forward="true" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,32 +1,56 @@
 import java.rmi.RemoteException;
 import java.sql.SQLException;
+import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
 public class ServerImpl implements IServices {
 
-    private UserRepository userRepository = new UserRepository();
-    private GameRepository gameRepository = new GameRepository();
-    private List<User> loggedClients;
+    private UserRepository userRepository;
+    private GameRepository gameRepository;
+    private List<IObserver> loggedClients;
 
 
-    public ServerImpl(UserRepository userRepository) {
+    public ServerImpl(UserRepository userRepository, GameRepository gameRepository) {
+        this.loggedClients = new ArrayList<>();
         this.userRepository = userRepository;
+        this.gameRepository = gameRepository;
     }
 
 
     @Override
-    public void login(User user, IObserver client) throws RemoteException {
-
+    public synchronized boolean login(String username, String password, IObserver iObserver, AfterLoginEclipse afterLoginEclipse) throws RemoteException, SQLException {
+        if (this.userRepository.login(username, password) != null) {
+            this.loggedClients.add(iObserver);
+            return true;
+        }
+        return false;
     }
 
     @Override
-    public void logout(User user, IObserver client) throws RemoteException {
-
+    public synchronized void logout(IObserver iObserver) throws RemoteException {
+        this.loggedClients.remove(iObserver);
     }
 
     @Override
-    public synchronized void updateTableForOtherClients() throws RemoteException {
+    public void updateTableForOtherClients() throws RemoteException {
         System.out.println("table must be updated -- server");
+        ExecutorService executor = Executors.newFixedThreadPool(this.loggedClients.size());
+
+        executor.execute(() -> {
+            this.loggedClients.forEach(c -> {
+
+                try {
+                    c.nofityClient();
+                } catch (RemoteException e) {
+                    e.printStackTrace();
+                }
+            });
+            executor.shutdown();
+        });
+
+
     }
 
 
@@ -34,10 +58,6 @@ public class ServerImpl implements IServices {
      * method thay are needed in the ClientCtrl
      */
 
-    @Override
-    public User login(String username, String password) throws SQLException {
-        return this.userRepository.login(username, password);
-    }
 
     @Override
     public List<Game> getAllGames() throws SQLException {
@@ -57,6 +77,11 @@ public class ServerImpl implements IServices {
     @Override
     public void updatenrTicketsAfterBuying(Integer idGame, Integer numberWantedTickets) throws SQLException {
         this.gameRepository.updatenrTicketsAfterBuying(idGame, numberWantedTickets);
+        try {
+            this.updateTableForOtherClients();
+        } catch (RemoteException e) {
+            e.printStackTrace();
+        }
     }
 
 

@@ -10,7 +10,7 @@ import java.util.List;
 
 public class AfterLoginEclipse {
 
-    private static ClientCtrl clientCtrl;
+    private ClientCtrl clientCtrl;
 
     private JPanel contentPane;
     private JTable jtable;
@@ -116,11 +116,6 @@ public class AfterLoginEclipse {
             this.model.addRow(new Object[]{game.getId(), game.getTeam1(), game.getTeam2(), game.getTitle(), game.getPriceOfTicket(), game.getTickets()});
         });
         this.model.fireTableDataChanged();
-        if (this.jtable != null) {
-            AfterLoginEclipse afterLoginEclipse = new AfterLoginEclipse(clientCtrl);
-            afterLoginEclipse.frame.setVisible(true);
-            this.frame.dispose();
-        }
     }
 
     /**
@@ -137,7 +132,12 @@ public class AfterLoginEclipse {
                 } catch (RemoteException e) {
                     e.printStackTrace();
                 }
-                swingGUIEclipse.frame.setVisible(true);
+                try {
+                    clientCtrl.logout();
+                    swingGUIEclipse.frame.setVisible(true);
+                } catch (RemoteException e) {
+                    e.printStackTrace();
+                }
             }
         });
         btnLogout.setBounds(482, 389, 97, 25);

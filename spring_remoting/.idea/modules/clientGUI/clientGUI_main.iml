@@ -15,11 +15,11 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="server_main" />
+    <orderEntry type="module" module-name="services_main" />
     <orderEntry type="module" module-name="persistence_main" />
+    <orderEntry type="module" module-name="model_main" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-context:5.0.4.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: mysql:mysql-connector-java:5.1.6" level="project" />
-    <orderEntry type="module" module-name="services_main" />
-    <orderEntry type="module" module-name="model_main" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-aop:5.0.4.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-beans:5.0.4.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-expression:5.0.4.RELEASE" level="project" />

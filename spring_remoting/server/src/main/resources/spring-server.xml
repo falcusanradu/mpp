@@ -5,9 +5,11 @@
 
 
     <bean id="userRepo" class="UserRepository"/>
+    <bean id="gameRepo" class="GameRepository"/>
 
     <bean id="Service" class="ServerImpl">
         <constructor-arg ref="userRepo"/>
+        <constructor-arg ref="gameRepo"/>
     </bean>
 
     <bean class="org.springframework.remoting.rmi.RmiServiceExporter">

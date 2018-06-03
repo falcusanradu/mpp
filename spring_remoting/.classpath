@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="clientGUI/src/main/java"/>
+	<classpathentry kind="src" path="model/src/main/java"/>
+	<classpathentry kind="src" path="persistence/src/main/java"/>
+	<classpathentry kind="src" path="server/src/main/java"/>
+	<classpathentry kind="src" path="services/src/main/java"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="model/build/libs/model-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="services/build/libs/services-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="clientGUI/out/production/classes"/>
+</classpath>

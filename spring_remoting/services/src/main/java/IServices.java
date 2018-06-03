@@ -3,21 +3,13 @@ import java.sql.SQLException;
 import java.util.List;
 
 public interface IServices {
-    void login(User user, IObserver client) throws RemoteException;
 
-    void logout(User user, IObserver client) throws RemoteException;
-
+    boolean login(String username, String password, IObserver iObserver, AfterLoginEclipse afterLoginEclipse) throws RemoteException, SQLException;
+    void logout(IObserver iObserver) throws RemoteException;
     void updateTableForOtherClients() throws RemoteException;
-
-
-    User login(String username, String password) throws SQLException;
-
     List<Game> getAllGames() throws SQLException;
-
     boolean existsUserByUsername(String clientName) throws SQLException;
-
     boolean existsEnoughTickets(Integer idGame, Integer numberWantedTickets) throws SQLException;
-
     void updatenrTicketsAfterBuying(Integer idGame, Integer numberWantedTickets) throws SQLException;
 
 
